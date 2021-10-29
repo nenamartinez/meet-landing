@@ -42,7 +42,7 @@ body {
 }
 
 .hero-box {
-  min-height: 30rem;
+  height: 30rem;
   background-image: url(assets/tablet/image-hero.png);
   background-size: 110% auto;
   background-position: center;
